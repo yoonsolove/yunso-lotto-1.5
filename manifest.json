@@ -1,0 +1,10 @@
+
+{
+  "name": "윤소 로또앱",
+  "short_name": "로또앱",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "윤소 로또앱 1.5 버전입니다.",
+  "icons": []
+}
